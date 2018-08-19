@@ -1,0 +1,102 @@
+{
+  "bands": [
+    {
+      "name": "Band-Maid",
+      "members": [
+        {
+          "name": "Miku Kobato",
+          "role": "Guitar / 2nd Vocals"
+        },
+        {
+          "name": "Kanami Tono",
+          "role": "Guitar"
+        },
+        {
+          "name": "Akane Hirose",
+          "role": "Drums"
+        },
+        {
+          "name": "Misa",
+          "role": "Bass"
+        },
+        {
+          "name": "Saiki Atsumi",
+          "role": "Vocals"
+        }
+      ],
+      "discography": [ "Maid in Japan", "New Beginning", "Brand New Maid", "Just Bring It" ]
+    },
+    {
+      "name": "Avenged Sevenfold",
+      "members": [
+        {
+          "name": "M.Shadows",
+          "role": "Lead Vocals / Piano"
+        },
+        {
+          "name": "Synyster Gates",
+          "role": "Lead Guitar / Piano / Backing Vocals"
+        },
+        {
+          "name": "Zacky Vengeance",
+          "role": "Rhythm Guitar / Backing Vocals"
+        },
+        {
+          "name": "Johnny Christ",
+          "role": "Bass / Backing Vocals"
+        },
+        {
+          "name": "Brooks Wackerman",
+          "role": "Drums / Percussion"
+        }
+      ],
+      "discography": [
+        "Sounding The Seventh Trumpet",
+        "Walking The Fallen",
+        "City of Evil",
+        "Avenged Sevenfold",
+        "Nightmare",
+        "Hail To The King",
+        "The Stage"
+      ]
+    },
+    {
+      "name": "Galneryus",
+      "members": [
+        {
+          "name": "Syu",
+          "role": "Guitar / Backing Vocals / Leader"
+        },
+        {
+          "name": "Yuhki",
+          "role": "Keyboards / Hammond Organ / Keytar / Backing Vocals"
+        },
+        {
+          "name": "Masatoshi 'Sho' Ono",
+          "role": "Vocals"
+        },
+        {
+          "name": "Taka",
+          "role": "Bass"
+        },
+        {
+          "name": "Fumiya Morishita",
+          "role": "Drums"
+        }
+      ],
+      "discography": [
+        "The Flag Of Punishment",
+        "Advance To The Fall",
+        "Beyond The End Of Despair",
+        "One For All - All For One",
+        "Reincarnation",
+        "Resurrection",
+        "Phoenix Rising",
+        "Angel Of Salvation",
+        "Vetelgyus",
+        "Under The Force Of Courage",
+        "Ultimate Sacrifice"
+      ]
+    }
+  ]
+}
