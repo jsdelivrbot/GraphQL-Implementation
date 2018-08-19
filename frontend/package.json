@@ -1,0 +1,40 @@
+{
+  "name": "study-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcsmad/GraphQL-Implementation.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "NPM",
+    "JsonServer"
+  ],
+  "author": "Kevin Maduro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcsmad/GraphQL-Implementation/issues"
+  },
+  "homepage": "https://github.com/kcsmad/GraphQL-Implementation#readme",
+  "dependencies": {
+    "apollo-server": "^2.0.4",
+    "graphql": "^0.13.2",
+    "lodash": "^4.17.10",
+    "react": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.16.5"
+  }
+}
